@@ -37,9 +37,6 @@ img {
   margin: 0;
 }
 
-.header__links-list-item {
-}
-
 .header__links-list-item_no-bullit {
   list-style: none;
 }
@@ -82,10 +79,6 @@ img {
   margin-bottom: 4px;
 }
 
-.address__text {
-}
-
-
 .cover {
   position: relative;
   background-image: url("../images/cover-bg.jpg"); 
@@ -98,7 +91,7 @@ img {
 .overlay {
   position: absolute;
   inset: 0;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color:rgba(0, 0, 0, 0.5);
   z-index: 1;
 }
 
